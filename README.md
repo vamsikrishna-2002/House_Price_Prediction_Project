@@ -1,9 +1,9 @@
 # **Predictive Modeling for Accurate Housing Price Estimation**  
 ### Team Members:  
 1. VAMSI KRISHNA YARRAGUNTA ( 700772692 )
-2. NAGALAKSHMI MUNAPATI  
-3. HARSHAVARDHINI KATTA  
-4. VARSHIKA INDUKURI
+2. NAGALAKSHMI MUNAPATI  ( 700779224 )
+3. HARSHAVARDHINI KATTA  ( 700778822 )
+4. VARSHIKA INDUKURI  ( 700776627 )
 
 ## Short Introduction:
 This project focuses on building a machine learning–based house price prediction system. The model
