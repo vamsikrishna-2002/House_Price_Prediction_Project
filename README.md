@@ -1,4 +1,4 @@
-#**This project focuses on building a machine learning–based house price prediction system.**  
+# **Predictive Modeling for Accurate Housing Price Estimation**  
 ### Team Members:  
 1. VAMSI KRISHNA YARRAGUNTA  
 2. NAGALAKSHMI MUNAPATI  
